@@ -4,6 +4,6 @@
   
 Para dicho proposito se usaron las libreias de Python (Pandas, Seaborn, Mathplolib),además se implementó (Sweetviz) para una aproximacón a los datos desde un enfoque gráfico, y (SQL) para una manipulación extra de los datos.</h3>
 <br>
-<p align="center">
+
 [![netflix-Logo.png](https://i.postimg.cc/pTqSdMhQ/netflix-Logo.png)](https://postimg.cc/CBn7vt4d)
-</p>
+
